@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  fullcycle:
+    image: fullcycle
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: fullcycle
+    restart: unless-stopped
+    volumes:
+      - ./:/usr/src/app
