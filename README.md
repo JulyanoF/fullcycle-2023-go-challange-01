@@ -1,4 +1,4 @@
-# Challange 01 Full Cycle Learning Experience
+# Full Cycle Learning Experience - Challenge 01
 
 Docker image: [espaguette/fullcycle]
 
